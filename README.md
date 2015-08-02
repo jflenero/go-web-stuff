@@ -1,7 +1,7 @@
-Go Stuff
+Go Web Stuff
 ========================
 
-A continuously expanded list of packages/frameworks and tools for Go development that are useful or interesting.
+A continuously expanded list of packages/frameworks and tools for Go Web development that are useful or interesting.
 
 
 - [Web Frameworks](#web-frameworks)
